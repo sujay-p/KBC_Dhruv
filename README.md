@@ -1,6 +1,6 @@
 # Task
 
-Develop the KBC game using C. The program should have the following features:
+### Develop the KBC game using C. The program should have the following features:
 
 1. First of all, primary information, such as the total number of questions, prize money with respect to each question, available life lines and intermediate question levels (described in point no. 4 below) should be displayed on the screen, asking the user to press any key to start the game.
 
