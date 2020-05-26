@@ -13,3 +13,15 @@
 #### 5. The user can opt for two life lines, such as “50-50”, upon selection of which, two wrong options should be removed from the screen, or “flip the question” that should replace the entire question with a new one on the screen. These life lines can be availed by the user only once (even at the same time as well). Therefore, the program should take care of this provision.
 
 #### 6. The maximum number of questions a user can play should not exceed 15.
+
+
+### Instructions to run the inspiration files
+
+- After you have cloned the repository, open the terminal and navigate to the directory.
+
+- Run a quick check of the gcc version on your system by entering
+`
+gcc -v
+`
+
+- Enter a.exe
